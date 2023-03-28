@@ -14,7 +14,7 @@ Hi!! :raising_hand_man:
 - **5)** Data workflow for model predictions
 
 <p align="justify">
-&ensp;&ensp;&ensp;&ensp;For all of this, we'll use the <a href"https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download">well-known Olist dataset from Kaglle</a> as our data source.
+&ensp;&ensp;&ensp;&ensp;For all of this, we'll use the <a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download">well-known Olist dataset from Kaglle</a> as our data source.
 </p>
 
 ## Project Steps:
